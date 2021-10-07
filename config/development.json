@@ -1,0 +1,9 @@
+{
+    "APPLICATION": {
+        "PORT": 8000,
+        "NODE_ENV": "development"
+    },
+    "MONGODB": {
+        "HOST": "mongodb+srv://admin:ekam1234@ekamcluster.ystb9.mongodb.net/robot?retryWrites=true&w=majority"
+    }
+}
